@@ -6,7 +6,7 @@ npm run dev
 # Screenshots
 
 ### Desktop
-![Project Screenshot](screenshots/desktopscr.png)
+<img src="screenshots/desktopscr.png" alt="Desktop Screenshot" width="600" />
 
 ### Mobile
-![Project Screenshot](screenshots/mobilescr.png)
+<img src="screenshots/mobilescr.png" alt="Mobile Screenshot" width="300" />
